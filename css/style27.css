@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Libre Barcode 39 Text", system-ui;
+}
+
+body {
+    font-weight: 200;
+    background-color: #f4f4f4;
+}
+
+.header__p {
+    font-size: 60px;
+}
+
+.header__input {
+    border: 3px solid #000000;
+    font-size: 30px;
+    width: 500px;
+    height: 60px;
+    border-radius: 321px;
+    
+}
+
+.header__button {
+    width: 200px;
+    height: 50px;
+    font-size: 35px;
+    
+    font-weight: 200;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 874px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px 20px;
+}
+
+.main__newbox {
+    background-color: lightgrey;
+    width: 350px;
+    height: 30px;
+    border-radius: 52347869235789px;
+}
+
+.main__new {
+    background-color: black;
+    width: 120px;
+    height: 30px;
+    border-radius: 5432167897453267819px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+}
+main{
+    margin: 31.4px 31.4px;
+    display: flex;
+}
+.main__p{
+    width: 600px;
+    font-size: 40px;
+    margin-bottom: 100px;
+}
+.main__img{
+    width: 800px;
+    position: absolute;
+    right: 0;
+}
+.main__h1{
+    font-size: 100px;
+    width: 100vw;
+}
+.main__span{
+    color: white;
+    text-shadow: #000000 0px 0 2px;
+}
+.main__form{
+    width: 1372;
+height: 90;
+opacity: 1;
+top: 423.64px;
+display: flex;
+gap: 40px;
+}
+.main__button{
+    width: 295px;
+height: 90px;
+border-radius: 32px;
+background-color: #F9FAFB;
+border: 2px solid #141414;
+box-shadow: 0px 4px 0px 0px #141414;
+}
+.main__p2{
+height: 22px;
+
+font-size: 30px;
+}
+.main__div{
+    width: 1053px;
+height: 90px;
+border-radius: 32px;
+border-width: 2px;
+border: 2px solid #141414;
+box-shadow: 0px 4px 0px 0px #141414;
+display: flex;
+}
+.main__div2{
+    width: 209px;
+height: 86px;
+top: 2px;
+left: 2px;
+padding: 30.5px 62.73px 29.5px 57.27px;
+border-right: 2px dashed #000000;
+background-color: #E1E1E1;
+justify-content: center;
+align-items: center;
+display: flex;
+border-radius: 32px 0 0 32px;
+font-size: 25px;
+}
+.main__input{
+    width: 840px;
+height: 86px;
+top: 2px;
+left: 211px;
+border: none;
+border-radius: 0 32px 32px 0;
+padding: 40px 32px 40px 32px;
+font-size: 25px;
+
+}

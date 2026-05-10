@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0e0e0e;
+    color: whitesmoke;
+}
+
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content:;
+
+    align-items: ;
+    gap: 5px;
+    width: 90%;
+    margin: 20vh auto;
+    height: 60vh;
+    background-color: darkslateblue;
+    border-radius: 16px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(139, 61, 61);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 400%;
+    font-weight: 900;
+}

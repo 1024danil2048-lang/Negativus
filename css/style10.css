@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 50px;
+    border-top: 2.5px solid white;
+    padding-top: 50px;
+}
+ul{
+    list-style: none;
+    line-height: 30px;
+}
+.logo{
+    color: rgb(0, 61, 174);
+    
+}
+body{
+    background-color: black;
+    color: white;
+}
+.start{
+    border-bottom: 1px solid white;
+    margin-bottom:10px;
+}

@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "SN Pro", sans-serif;
+    font-weight: 300;
+}
+body{
+    background: #fc897c;
+background: radial-gradient(circle, rgba(252, 137, 124, 1) 0%, rgba(255, 189, 189, 1) 50%, rgba(252, 137, 124, 1) 100%);
+}
+.table{
+    border-collapse:separate;
+    border: 1px solid black;
+    background: #bfb863;
+background: linear-gradient(90deg,rgba(191, 184, 99, 1) 0%, rgba(207, 167, 116, 1) 50%, rgba(252, 167, 124, 1) 100%);
+    margin-left: 50%;
+    margin-top: 16%;
+    transform: translateX(-50%);
+    border-radius: 5px;
+    width: 400px;
+    height: 250px;
+}
+.tabheader, .element{
+    border: 1px solid black;
+    padding: 7px 14px;
+}
+
+.element{
+    background: #ada54c;
+background: linear-gradient(90deg, rgba(173, 165, 76, 1) 0%, rgba(189, 129, 51, 1) 50%, rgba(173, 165, 76, 1) 100%);
+    border-radius: 5px;
+}
+.tabheader{
+    background-color: darkslategray;
+    font-weight: 500;
+    color: rgb(150, 255, 255);
+}
+.element3{
+    background: #ada54c;
+background: linear-gradient(90deg, rgba(173, 165, 76, 1) 0%, rgba(189, 129, 51, 1) 12%, rgba(173, 165, 76, 1) 25%, rgba(173, 165, 76, 1) 37%, rgba(189, 129, 51, 1) 50%, rgba(173, 165, 76, 1) 62%, rgba(173, 165, 76, 1) 75%, rgba(189, 129, 51, 1) 87%, rgba(173, 165, 76, 1) 100%);
+}

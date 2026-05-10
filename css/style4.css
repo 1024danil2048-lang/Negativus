@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0c0c0c;
+    color: #FFFFFF;
+}
+
+.container {
+    background-color: #1A1A1A;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}

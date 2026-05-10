@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    width: 100%;
+    height: 47px;
+    background-color: salmon;
+    outline: 3px #000000 solid;
+}
+
+
+
+body {
+    font-family: "Bitcount Prop Single", system-ui;
+    font-weight: 600;
+background-color: #0c0c0c;
+font-size: xx-large;
+text-align: center;
+}
+.hidden{
+    color: rgb(242, 235, 177);
+}
+
+section {
+    width: 100%;
+    height: 80vh;
+    padding: 30px;
+    background-color: khaki;
+    outline: 3px burlywood solid;
+}
+
+
+
+footer {
+    background-color: khaki;
+    outline: 3px burlywood solid;
+    border-radius: 5%;
+    width: 100%;
+    height: 100px;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+section{
+    margin: 30px 20px;
+}
+h3{
+    font-size: 39.8px;
+}
+p{
+    color: grey;
+}
+.form{
+    display: flex;
+    margin-top: 75px;
+    flex-direction: column;
+    gap: 24px;
+}
+.input{
+    /*width: 30%;
+    border: none;
+    border-bottom: 1px solid black;*/
+    border: 2px dashed black;
+}
+.label{
+    font-weight: 700;
+}
+.button{
+    border: none;
+    background-color: black;
+    border-radius: 30px;
+    color: white;
+    height: 50px;
+    width: 27%;
+    margin-left: 27px;
+}

@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.block{
+    width: 10vw;
+    height: 10vh;
+    background-color: cornflowerblue;
+    transition: background-color 5s ease, margin-top 5s ease, margin-left 5s ease;
+}
+.block:hover{
+    background-color: crimson;
+    margin-top: 90vh;
+    margin-left: 90vw;
+}

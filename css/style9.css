@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sekuya", system-ui;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 100px 0;
+}
+.title, .text-block{
+    width: 35%;
+}
+.title{
+    font-size: 52px;
+}
+.text, .link{
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+}
+.text{
+    margin-bottom: 30px;
+}
